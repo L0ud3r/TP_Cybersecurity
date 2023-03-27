@@ -1,2 +1,26 @@
 dias de ferias??
 falar em seguros???
+
+
+--------<----------- Gonçalo
+Acrescentar departamentos
+- IT
+- contabilidade
+- produção
+- desenvolvimento e testes
+- Design (promover empresa ??) (e redes sociais ???)
+ --Falar sobre os departamentos de forma mais detalhada
+
+Funções/Hierquias dos departamentos ( coloquei algumas, vejam se concordam)
+- Sistemas de login e acessos
+
+Falar sobre eventuais faltas de funcionários
+- cumprimentos de horários
+- Baixas
+- Dias de férias (concordo com quem escreveu em cima)
+- Dias de folgas
+- Horários rotativos
+
+Falar sobre o que fazer caso aja um ataque (nao sei se é já, mas vai ter que ser falado)
+- Backups
+- ....

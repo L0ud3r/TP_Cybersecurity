@@ -1,19 +1,13 @@
-dias de ferias??
-falar em seguros???
-
-
 --------<----------- Gonçalo
 Acrescentar departamentos
 - IT e testes
-- contabilidade
-- produção
-- Design (promover empresa ??) (e redes sociais ???)
+- produção- Design (promover empresa ??) (e redes sociais ???)
  --Falar sobre os departamentos de forma mais detalhada
 
 Funções/Hierquias dos departamentos ( coloquei algumas, vejam se concordam)
-- Sistemas de login e acessos
+- Sistemas de login e acessos (Plano de Segurança)
 
-Falar sobre eventuais faltas de funcionários
+Falar sobre eventuais faltas de funcionários (Tirar?)
 - cumprimentos de horários
 - Baixas
 - Dias de férias (concordo com quem escreveu em cima)

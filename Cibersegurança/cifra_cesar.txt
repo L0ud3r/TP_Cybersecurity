@@ -1,0 +1,23 @@
+HOJEETERCA -> NUPKKZKXIG
+k = 6
+
+H: (7+6) MOD 26 = 13 -> N
+O: (16+6) MOD 26 = 20 -> U
+J: (9+6) MOD 26 = 15 -> P
+E: (4+6) MOD 26 = 10 -> K
+E: 10 -> K
+T: 25 -> Z
+E: 10 -> K
+R: 23 -> X
+C: 8 -> I
+A: 6 -> G
+
+Desencriptar:
+Utilizar tabela de ocorrências em Inglês, info dada no enunciado
+
+AVTVYYVDPZDLKULZKHF
+TOMORROWISWEDNESDAY
+YT T  T
+JE E  E
+
+K = 7
